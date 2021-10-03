@@ -1,7 +1,6 @@
 <h1>Matheus Campos</h1>
-
 <div>
-  <p>- Hi, my name is Matheus!! 👏</p>  <img align="right" width="25%" height="25%" src="https://c.tenor.com/LcbB94yg5l8AAAAC/kratos-god-of-war.gif">
+  <p>- Hi, my name is Matheus!! 👏</p>  
   <p>- I'm learning to develop software and websites... 👻</p>
   <p> - I love video games, music and dogs 🎮 🔊🎶 🐕‍🦺</p>
 </div>
