@@ -5,5 +5,5 @@
 <p>- I love video games, music and dogs 🎮 🔊🎶 🐕‍🦺</p>
 
 <div>
-<img src="(https://github-readme-stats.vercel.app/api?username=theusouza0&show_icons=true&theme=gruvbox)">
+<img height="100px" width="100px" src="(https://github-readme-stats.vercel.app/api?username=theusouza0&show_icons=true&theme=gruvbox)">
 </div>
