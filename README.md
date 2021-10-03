@@ -5,7 +5,7 @@
   <p>- I'm learning to develop software and websites... 👻</p>
   <p> - I love video games, music and dogs 🎮 🔊🎶 🐕‍🦺</p>
 </div>
-
+<hr>
 <div>
   <a href="https://github.com/theusouza0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theusouza0&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -23,10 +23,12 @@
 <hr>
   
 <div> 
-  <a href="mailto:contraforte0@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-  <a href="https://linkedin.com/in/matheus-campos-2507" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
-  <a href="https://github.com/theusouza0"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
-  <a href="https://www.microsoft.com/en-us/windows/"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </a>
-  <a href="https://ubuntu.com/download"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> </a>
-  <a href="https://github.com/theusouza0"> <img src="https://img.shields.io/github/followers/{theusouza0}.svg?style=social&label=Follow&maxAge=2592000?"> </a>
+  <a alt="Gmail" href="mailto:contraforte0@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+  <a alt="Linkedin" href="https://linkedin.com/in/matheus-campos-2507" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+  <a alt="GitHub" href="https://github.com/theusouza0"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
+  <a alt="Microsoft" href="https://www.microsoft.com/en-us/windows/"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </a>
+  <a alt="Ubuntu" href="https://ubuntu.com/download"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> </a>
+  <a alt="Followers" href="https://github.com/theusouza0"> <img src="https://img.shields.io/github/followers/{theusouza0}.svg?style=social&label=Follow&maxAge=2592000?"> </a>
 </div>
+
+<img alt="Crash Bandicoot" src="https://i.gifer.com/YyBC.gif">
