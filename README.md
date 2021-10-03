@@ -26,7 +26,7 @@
   <a href="mailto:contraforte0@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
   <a href="https://linkedin.com/in/matheus-campos-2507" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
   <a href="https://github.com/theusouza0"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/github/followers/{theusouza0}.svg?style=social&label=Follow&maxAge=2592000">
+  <a href=""> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </a>
+  <a href=""> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> </a>
+  <a href="https://github.com/theusouza0"> <img src="https://img.shields.io/github/followers/{theusouza0}.svg?style=social&label=Follow&maxAge=2592000"> </a>
 </div>
