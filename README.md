@@ -4,6 +4,6 @@
 <p>- I'm learning to develop software and websites... 👻</p>
 <p>- I love video games, music and dogs 🎮 🔊🎶 🐕‍🦺</p>
 
-<div>
+
 (https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
-</div>
+
