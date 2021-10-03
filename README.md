@@ -1,11 +1,11 @@
 <h1>Matheus Campos</h1>
 
 <div>
-  <p>- Hi, my name is Matheus!! 👏</p>
+  <p>- Hi, my name is Matheus!! 👏</p>  <img align="right" width="25%" height="25%" src="https://c.tenor.com/LcbB94yg5l8AAAAC/kratos-god-of-war.gif">
   <p>- I'm learning to develop software and websites... 👻</p>
   <p> - I love video games, music and dogs 🎮 🔊🎶 🐕‍🦺</p>
 </div>
-<hr>
+
 <div>
   <a href="https://github.com/theusouza0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theusouza0&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -30,5 +30,3 @@
   <a alt="Ubuntu" href="https://ubuntu.com/download"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> </a>
   <a alt="Followers" href="https://github.com/theusouza0"> <img src="https://img.shields.io/github/followers/{theusouza0}.svg?style=social&label=Follow&maxAge=2592000?"> </a>
 </div>
-
-<img src="https://c.tenor.com/LcbB94yg5l8AAAAC/kratos-god-of-war.gif">
