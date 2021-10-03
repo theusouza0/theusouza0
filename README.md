@@ -28,5 +28,5 @@
   <a href="https://github.com/theusouza0"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
   <a href=""> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </a>
   <a href=""> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> </a>
-  <a href="https://github.com/theusouza0"> <img src="https://img.shields.io/github/followers/{}.svg?"> </a>
+  <a href="https://github.com/theusouza0"> <img src="https://img.shields.io/github/followers/{theusouza0}.svg?style=social&label=Follow&maxAge=2592000?"> </a>
 </div>
