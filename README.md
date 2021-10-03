@@ -5,5 +5,4 @@
 <p>- I love video games, music and dogs 🎮 🔊🎶 🐕‍🦺</p>
 
 
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=theusouza0&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theusouza0&layout=compact&theme=gruvbox)](https://github.com/theusouza0/github-readme-stats)
