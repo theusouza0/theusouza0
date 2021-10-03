@@ -1,4 +1,4 @@
-- Hi, my name is matheus!! 👏
+- Hi, my name is Matheus!! 👏
 
 - I'm learning to develop software and websites... 👻
 
