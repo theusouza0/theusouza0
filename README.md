@@ -1,11 +1,11 @@
 <h1>Matheus Campos</h1>
 <div>
-  <img align="right" width="20%" height="20%" src="https://c.tenor.com/fvfJkHRzmygAAAAC/cool-website-bro-cool-website.gif">
-  <p>- Hi, my name is Matheus!! 👏</p>  
-  <p>- I'm learning to develop software and websites... 👻</p>
-  <p> - I love video games, music and dogs 🎮 🔊🎶 🐕‍🦺</p>
+  <img align="right" width="48%" height="50%" src="https://media4.giphy.com/media/R0pVjLJvezM6wUNCXP/giphy.gif?cid=790b76115dc8b0711a5536fb1822cec6a8f0f694ff59aedc&rid=giphy.gif&ct=g">
+  <h3>- Hi, my name is Matheus!! 👏</h3>
+  <h3>- I'm learning to develop software and websites... 👻</h3>
+  <h3> - I love video games, music and dogs 🎮 🔊🎶 🐕‍🦺</h3>
 </div>
-
+<br><br><br><br><br><br>
 <hr>
 
 <div>
