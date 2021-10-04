@@ -1,11 +1,12 @@
 <h1>Matheus Campos</h1>
 <div>
   <img align="right" width="48%" height="50%" src="https://media4.giphy.com/media/R0pVjLJvezM6wUNCXP/giphy.gif?cid=790b76115dc8b0711a5536fb1822cec6a8f0f694ff59aedc&rid=giphy.gif&ct=g">
+  <br><br>
   <h3>- Hi, my name is Matheus!! 👏</h3>
   <h3>- I'm learning to develop software and websites... 👻</h3>
   <h3> - I love video games, music and dogs 🎮 🔊🎶 🐕‍🦺</h3>
 </div>
-<br><br><br><br><br><br>
+<br><br>
 <hr>
 
 <div>
